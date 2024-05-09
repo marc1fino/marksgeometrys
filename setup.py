@@ -9,11 +9,11 @@ with open(os.path.join(working_directory, "README.md"), encoding='utf-8') as f:
     long_description1 = f.read()
 # Setting up
 setup(
-    name="marksgeometry",
+    name="marksgeometrys",
     version=VERSION,
     author="mark. (Marc Pérez)",
     author_email="<marcperezcarrasco2010@gmail.com>",
-    url='https://github.com/marc1fino/marksfuncs',
+    url='https://github.com/marc1fino/marksgeometrys',
     description=DESCRIPTION,
     long_description=long_description1,
     long_description_content_type='text/markdown',
