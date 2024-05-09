@@ -1,4 +1,4 @@
-# marksfuncs
+# marksgeometry
 
 A mathematical library to calculate many figures area or volume.
 
