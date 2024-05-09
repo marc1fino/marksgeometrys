@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.1'
+VERSION = '0.1.1'
 DESCRIPTION = 'Calculate many figures area or volume'
 working_directory = os.path.abspath(os.path.dirname(__file__))
 
@@ -18,7 +18,7 @@ setup(
     long_description=long_description1,
     long_description_content_type='text/markdown',
     packages=find_packages(),
-    install_requires=['math'],
+    install_requires=[],
     license='MIT',
     keywords=['python', 'maths', 'figures', 'area', 'volume', 'mathematical figures'],
     classifiers=[
