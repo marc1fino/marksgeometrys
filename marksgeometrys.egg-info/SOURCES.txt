@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+marksgeometrys/__init__.py
+marksgeometrys/geometry.py
+marksgeometrys.egg-info/PKG-INFO
+marksgeometrys.egg-info/SOURCES.txt
+marksgeometrys.egg-info/dependency_links.txt
+marksgeometrys.egg-info/top_level.txt

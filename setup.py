@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.1.1'
+VERSION = '0.2'
 DESCRIPTION = 'Calculate many figures area or volume'
 working_directory = os.path.abspath(os.path.dirname(__file__))
 
