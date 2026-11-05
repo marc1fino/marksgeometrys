@@ -13,7 +13,7 @@ The project provides 24 ready-to-use geometric classes covering 2D shapes (trian
 
 ## UI
 
-**marksgeometrys** also features a companion graphical interface designed for seamless interaction, real-time calculations, and effortless geometry exploration.
+This library also features a companion graphical interface designed for seamless interaction, real-time calculations, and effortless geometry exploration.
 
 * **Repository:** [marksgeometrys-ui](https://github.com/marc1fino/marksgeometrys-ui)
 * **Highlights:**
