@@ -11,6 +11,16 @@ The project provides 24 ready-to-use geometric classes covering 2D shapes (trian
 ![PyPI](https://img.shields.io/badge/PyPI-0.1.1-blue?style=flat-square)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=flat-square)
 
+## UI
+
+**marksgeometrys** also features a companion graphical interface designed for seamless interaction, real-time calculations, and effortless geometry exploration.
+
+* **Repository:** [marksgeometrys-ui](https://github.com/marc1fino/marksgeometrys-ui)
+* **Highlights:**
+  * **Interactive Visuals:** Select and configure 2D shapes and 3D solids visually.
+  * **Real-time Results:** Instant calculations for areas, volumes, and units as you type.
+  * **Lightweight & Cross-Platform:** Built to complement the core Python library smoothly.
+
 ## Features
 
 - **24 geometric classes** — from basic 2D shapes to platonic solids and truncated figures
